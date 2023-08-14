@@ -1,0 +1,69 @@
+body{
+    background-color: whitesmoke;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    
+.main{
+        text-align: center;
+       width: 50%;
+       margin:  auto;
+       background-color: white;
+        color: black;
+        padding: 12px;
+        border-radius: 2ch;
+        box-shadow: 50ch;
+        border-color: black;
+        border-style: solid;
+        
+    }
+
+.list-class{
+        display: flex;
+        align-items:center;
+        
+    }
+    
+.btn-done{
+        width: 6ch;
+        height: 5ch;
+    }
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
